@@ -5,10 +5,10 @@ Technical reference for Google's Agent Development Kit (ADK) Multi-Agent Archite
 ## Contents
 
 ### [ADK Architecture Primer](adk-architecture-primer.md)
-Comprehensive guide covering agent types, multi-agent system design, core patterns, and implementation best practices.
+short overview over agent types, multi-agent system design, core patterns, and design best practices.
 
 ### [ADK Architecture Checklist](adk-architecture-primer-checklist)
-Actionable checklist for agent type selection, architecture validation, and implementation guidance.
+Actionable checklist for agent type selection, architecture validation, and design guidance.
 
 ### [Design Principles](design-principles.md)
 Core architectural patterns, collaboration models, and design trade-offs for multi-agent systems.
