@@ -1,36 +1,18 @@
 # ADK Architecture Knowledge Base
 
-This directory contains essential knowledge about Google's Agent Development Kit (ADK) Multi-Agent Architecture, designed to help LLMs quickly understand and implement complex multi-agent systems.
+Technical reference for Google's Agent Development Kit (ADK) Multi-Agent Architecture implementation.
 
 ## Contents
 
-### 📚 [ADK Architecture Primer](adk-architecture-primer.md)
-A comprehensive guide covering:
-- **Agent Types**: LLM Agents, Workflow Agents, and Custom Agents
-- **Multi-Agent System Design**: Hierarchy, coordination patterns, and communication
-- **Core Patterns**: Sequential pipelines, parallel execution, looping, and review/critique
-- **Design Best Practices**: Single responsibility, clear interfaces, state management
-- **Implementation Guidance**: Step-by-step approach to building robust multi-agent systems
+### [ADK Architecture Primer](adk-architecture-primer.md)
+Comprehensive guide covering agent types, multi-agent system design, core patterns, and implementation best practices.
 
-### ✅ [ADK Architecture Checklist](adk-architecture-primer-checklist)
-An actionable checklist format for LLMs to:
-- Verify agent type selection
-- Validate architecture patterns
-- Ensure best practices are followed
-- Guide quick flow design
-- Support incremental testing and iteration
+### [ADK Architecture Checklist](adk-architecture-primer-checklist)
+Actionable checklist for agent type selection, architecture validation, and implementation guidance.
+
+### [Design Principles](design-principles.md)
+Core architectural patterns, collaboration models, and design trade-offs for multi-agent systems.
 
 ## Purpose
 
-These documents provide LLMs with:
-- **Quick Context Setting**: Essential ADK concepts and patterns
-- **Implementation Guidance**: Structured approaches to multi-agent system design
-- **Quality Assurance**: Best practices and validation checkpoints
-- **Reference Material**: Comprehensive coverage of ADK multi-agent architecture
-
-## When to Use
-
-- **Primer**: For deep understanding, learning, and comprehensive planning
-- **Checklist**: For implementation tasks, validation, and quick reference during development
-
-Both formats contain the same core information, optimized for different LLM use cases and task requirements.
+Provides LLMs with essential ADK concepts, implementation patterns, and architectural guidance for building multi-agent systems.
