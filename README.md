@@ -9,6 +9,7 @@ Provides LLMs with essential technical context and implementation guidance acros
 ## Structure
 
 - **`adk-architecture/`** - Google ADK Multi-Agent Architecture patterns and design principles
+- **`content-guidelines/`** - Basic content creation and review standards for web content
 - Additional domain-specific knowledge directories will be added as needed
 
 ## Usage
@@ -16,3 +17,4 @@ Provides LLMs with essential technical context and implementation guidance acros
 - **Primer documents** (`.md`) - Comprehensive technical explanations
 - **Checklist documents** - Structured implementation guidance
 - **Design principles** - Core architectural patterns and best practices
+- **Content guidelines** - Quality standards and best practices for content creation
